@@ -1,5 +1,7 @@
 # 智学网阅卷助手
 
+<img src="assets/book-logo.png" alt="智学网阅卷助手标识" width="112">
+
 由赛闲僧科技出版的 Windows 阅卷工具。本项目闭源，GitHub 仓库用于发布安装包和更新说明。
 
 ## 主要功能
