@@ -26,3 +26,9 @@
 | 微信支付 | 支付宝 |
 | --- | --- |
 | <img src="assets/wechat-pay.png" alt="微信支付收款码" width="300"> | <img src="assets/alipay.jpg" alt="支付宝收款码" width="300"> |
+
+---
+
+<img src="assets/publisher-logo.png" alt="赛闲僧科技标识" width="72">
+
+赛闲僧科技出版
