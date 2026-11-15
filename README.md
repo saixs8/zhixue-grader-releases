@@ -10,7 +10,6 @@
 - 支持本地 Ollama 和兼容的云端视觉模型，用于答卷识别、辅助评分与回评学习。
 - 可分类归档典型案例、生成讲评 PPT，并导出阅卷记录、自学习资料及外部 AI 讲评课件制作包。
 
-[下载 v2.2.8 Windows 正式版](https://github.com/saixs8/zhixue-grader-releases/releases/tag/v2.2.8)
 
 
 安装和运行需要设备授权。打开安装器并点击安装，复制设备码发给赛闲僧科技。收到授权 JSON 后导入。每份授权对应一台电脑。
@@ -53,3 +52,4 @@
 
 赛闲僧科技出版
 
+[下载最新 Windows 正式版（两个安装包）](https://github.com/saixs8/zhixue-grader-releases/releases/latest)
