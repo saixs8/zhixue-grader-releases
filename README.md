@@ -12,7 +12,6 @@
 
 [下载 v2.2.8 Windows 验收版（预发布）](https://github.com/saixs8/zhixue-grader-releases/releases/tag/v2.2.8)
 
-[下载安装程序及查看更新说明](https://github.com/saixs8/zhixue-grader-releases/releases/latest)
 
 安装和运行需要设备授权。打开安装器并点击安装，复制设备码发给赛闲僧科技。收到授权 JSON 后导入。每份授权对应一台电脑。
 
